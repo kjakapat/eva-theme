@@ -1,0 +1,22 @@
+{
+    "name": "base16-eva",
+    "background": "#2a3b4d",
+    "selectionBackground": "#36506a",
+    "black": "#2a3b4d",
+    "blue": "#15f4ee",
+    "brightBlack": "#47698c",
+    "brightBlue": "#15f4ee",
+    "brightCyan": "#4b8f77",
+    "brightGreen": "#66ff66",
+    "brightPurple": "#9c6cd3",
+    "brightRed": "#c4676c",
+    "brightWhite": "#ffffff",
+    "brightYellow": "#ffff66",
+    "cyan": "#4b8f77",
+    "foreground": "#9fa2a6",
+    "green": "#66ff66",
+    "purple": "#9c6cd3",
+    "red": "#c4676c",
+    "white": "#9fa2a6",
+    "yellow": "#ffff66"
+}

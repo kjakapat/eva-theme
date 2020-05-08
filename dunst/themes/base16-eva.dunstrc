@@ -3,12 +3,12 @@ separator_color = "#9fa2a6"
 
 [base16_low]
     msg_urgency = low
-    background = "#2f4359"
+    background = "#354e67"
     foreground = "#47698c"
 
 [base16_normal]
     msg_urgency = normal
-    background = "#36506a"
+    background = "#3f5c7b"
     foreground = "#9fa2a6"
 
 [base16_critical]

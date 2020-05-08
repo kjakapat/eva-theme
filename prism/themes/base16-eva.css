@@ -147,11 +147,11 @@ pre > code.highlight {
  * http://prismjs.com/plugins/line-numbers/
  */
 .line-numbers .line-numbers-rows {
-  border-right-color: #2f4359;
+  border-right-color: #354e67;
 }
 
 .line-numbers-rows > span:before {
-  color: #36506a;
+  color: #3f5c7b;
 }
 
 /* overrides color-values for the Line Highlight plugin

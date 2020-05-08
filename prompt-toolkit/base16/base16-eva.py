@@ -18,8 +18,8 @@ from pygments.token import (Keyword, Name, Comment, String, Error, Text,
 # of the different colors in the base16 palette.
 
 base00 = '#2a3b4d'
-base01 = '#2f4359'
-base02 = '#36506a'
+base01 = '#354e67'
+base02 = '#3f5c7b'
 base03 = '#47698c'
 base04 = '#758ba2'
 base05 = '#9fa2a6'

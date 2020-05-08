@@ -4,8 +4,8 @@
 
 evaluate-commands %sh{
     base00='rgb:2a3b4d'
-    base01='rgb:2f4359'
-    base02='rgb:36506a'
+    base01='rgb:354e67'
+    base02='rgb:3f5c7b'
     base03='rgb:47698c'
     base04='rgb:758ba2'
     base05='rgb:9fa2a6'

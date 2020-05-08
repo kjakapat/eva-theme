@@ -4,13 +4,13 @@
 .colors *
 
 -text		$9fa2a6/$2a3b4d
--status		$758ba2/$36506a
+-status		$758ba2/$3f5c7b
 -cursor		$2a3b4d/$9fa2a6
--selection	/$36506a
--curlin		/$2f4359
--linum		$47698c/$2f4359
--curlinum	$758ba2/$2f4359
--menusel	$2f4359/$758ba2
+-selection	/$3f5c7b
+-curlin		/$354e67
+-linum		$47698c/$354e67
+-curlinum	$758ba2/$354e67
+-menusel	$354e67/$758ba2
 
 -term 0 	$2a3b4d
 -term 1 	$15f4ee
@@ -50,12 +50,12 @@
 =Preproc	$ffff66
 =Include	$15f4ee
 =Define		$9c6cd3
-=TODO		$ffff66/$2f4359
+=TODO		$ffff66/$354e67
 =Precond	$9c6cd3
 
-=diff.AddLine	$66ff66/$2f4359
-=diff.ChgLine	$47698c/$2f4359
-=diff.DelLine	$c4676c/$2f4359
+=diff.AddLine	$66ff66/$354e67
+=diff.ChgLine	$47698c/$354e67
+=diff.DelLine	$c4676c/$354e67
 =diff.File	$c4676c
 =diff.FileNew	$66ff66
 =diff.Hunk	$15f4ee

@@ -2,8 +2,8 @@
 ! Scheme: kjakapat (https://github.com/kjakapat)
 
 #define base00 #2a3b4d
-#define base01 #2f4359
-#define base02 #36506a
+#define base01 #354e67
+#define base02 #3f5c7b
 #define base03 #47698c
 #define base04 #758ba2
 #define base05 #9fa2a6

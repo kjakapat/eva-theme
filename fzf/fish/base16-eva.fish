@@ -2,8 +2,8 @@
 # Author: kjakapat (https://github.com/kjakapat)
 
 set -l color00 '#2a3b4d'
-set -l color01 '#2f4359'
-set -l color02 '#36506a'
+set -l color01 '#354e67'
+set -l color02 '#3f5c7b'
 set -l color03 '#47698c'
 set -l color04 '#758ba2'
 set -l color05 '#9fa2a6'

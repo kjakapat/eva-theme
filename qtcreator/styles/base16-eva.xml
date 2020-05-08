@@ -13,12 +13,12 @@
   <style name="Link"/>
 
   <!-- selection, current line, search, matching brackets -->
-  <style name="Selection" background="#36506a"/>
+  <style name="Selection" background="#3f5c7b"/>
   <style name="CurrentLine" background="#47698c"/>
   <style name="LineNumber" foreground="#47698c"/>
   <style name="CurrentLineNumber" foreground="#758ba2" bold="true"/>
-  <style name="SearchResult" background="#2f4359"/>
-  <style name="Parentheses" background="#36506a" />
+  <style name="SearchResult" background="#354e67"/>
+  <style name="Parentheses" background="#3f5c7b" />
   <style name="ParenthesesMismatch" background="#9c6cd3" />
 
   <!-- Selection whilst searching in it -->
@@ -56,7 +56,7 @@
   <style name="JsGlobalVar" foreground="#9fa2a6" italic="true"/>
 
   <!-- whitespace -->
-  <style name="VisualWhitespace" foreground="#36506a"/>
+  <style name="VisualWhitespace" foreground="#3f5c7b"/>
 
   <!-- comments -->
   <style name="Comment" foreground="#47698c"/>
@@ -85,9 +85,9 @@
   <style name="DiffFileLine" foreground="#9c6cd3"/>
   <style name="DiffContextLine" foreground="#15f4ee"/>
   <style name="DiffSourceLine" foreground="#66ff66"/>
-  <style name="DiffSourceChar" foreground="#ffff66" background="#2f4359"/>
+  <style name="DiffSourceChar" foreground="#ffff66" background="#354e67"/>
   <style name="DiffDestLine" foreground="#66ff66"/>
-  <style name="DiffDestChar" foreground="#ffff66" background="#2f4359"/>
+  <style name="DiffDestChar" foreground="#ffff66" background="#354e67"/>
 
   <!-- errors, warnings -->
   <style name="Error" underlineColor="#c4676c" underlineStyle="SingleUnderline"/>

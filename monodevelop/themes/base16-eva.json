@@ -6,7 +6,7 @@
     "colors":[
         {"name": "Background(Read Only)", "color":"#252620" },
         {"name": "Search result background", "color":"#ffff66" },
-        {"name": "Search result background (highlighted)", "color":"#36506a" },
+        {"name": "Search result background (highlighted)", "color":"#3f5c7b" },
         {"name": "Fold Square", "color":"#47698c", "secondcolor":"#2a3b4d" },
         {"name": "Fold Cross", "color":"#FFFFFF", "secondcolor":"#2a3b4d" },
         {"name": "Indentation Guide", "color":"#47698c" },

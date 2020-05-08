@@ -21,8 +21,8 @@ color14=$color06 # Base 0C - Bright Cyan
 color15="ff/ff/ff" # Base 07 - Bright White
 color16="ff/99/66" # Base 09
 color17="bb/64/a9" # Base 0F
-color18="2f/43/59" # Base 01
-color19="36/50/6a" # Base 02
+color18="35/4e/67" # Base 01
+color19="3f/5c/7b" # Base 02
 color20="75/8b/a2" # Base 04
 color21="d6/d7/d9" # Base 06
 color_foreground="9f/a2/a6" # Base 05
@@ -81,7 +81,7 @@ if [ -n "$ITERM_SESSION_ID" ]; then
   put_template_custom Pg 9fa2a6 # foreground
   put_template_custom Ph 2a3b4d # background
   put_template_custom Pi 9fa2a6 # bold color
-  put_template_custom Pj 36506a # selection color
+  put_template_custom Pj 3f5c7b # selection color
   put_template_custom Pk 9fa2a6 # selected text color
   put_template_custom Pl 9fa2a6 # cursor
   put_template_custom Pm 2a3b4d # cursor text

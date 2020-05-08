@@ -4,9 +4,9 @@
     "comment": "",
     "cursor-background-color": "#758ba2",
     "cursor-foreground-color": "#758ba2",
-    "dim-color": "#2f4359",
+    "dim-color": "#354e67",
     "foreground-color": "#758ba2",
-    "highlight-background-color": "#2f4359",
+    "highlight-background-color": "#354e67",
     "highlight-foreground-color": "#758ba2",
     "name": "eva (base16)",
     "palette": [

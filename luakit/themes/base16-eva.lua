@@ -9,8 +9,8 @@ function hex2rgb(hex)
 end
 
 local base00 = "#2a3b4d" -- ----
-local base01 = "#2f4359" -- ---
-local base02 = "#36506a" -- --
+local base01 = "#354e67" -- ---
+local base02 = "#3f5c7b" -- --
 local base03 = "#47698c" -- -
 local base04 = "#758ba2" -- +
 local base05 = "#9fa2a6" -- ++

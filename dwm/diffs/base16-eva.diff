@@ -17,8 +17,8 @@ index 1c0b587..efdbcc4 100644
 + * eva scheme by kjakapat (https://github.com/kjakapat)
 + */
 +static const char col_base00[]      = "#2a3b4d";
-+static const char col_base01[]      = "#2f4359";
-+static const char col_base02[]      = "#36506a";
++static const char col_base01[]      = "#354e67";
++static const char col_base02[]      = "#3f5c7b";
 +static const char col_base04[]      = "#758ba2";
 +static const char col_base0C[]      = "#4b8f77";
 +static const char col_base0D[]      = "#15f4ee";

@@ -41,7 +41,7 @@ IDE:
           italic: false
         matchingBrackets: !textFormat
           color: "#9fa2a6"
-          background: "#36506a"
+          background: "#3f5c7b"
           bold: true
           italic: false
         mismatchedBrackets: !textFormat
@@ -79,11 +79,11 @@ IDE:
           italic: false
         searchResult: !textFormat
           color: "#9fa2a6"
-          background: "#2f4359"
+          background: "#354e67"
           italic: false
         selection: !textFormat
           color: "#9fa2a6"
-          background: "#36506a"
+          background: "#3f5c7b"
           italic: false
         string: !textFormat
           color: "#66ff66"
@@ -98,6 +98,6 @@ IDE:
           background: "#2a3b4d"
           italic: false
         whitespace: !textFormat
-          color: "#36506a"
+          color: "#3f5c7b"
           background: "#2a3b4d"
           italic: false

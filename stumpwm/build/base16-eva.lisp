@@ -9,7 +9,7 @@
   (stumpwm:set-unfocus-color "#2a3b4d")
 
   (setf stumpwm:*mode-line-foreground-color* "#9c6cd3"
-	stumpwm:*mode-line-background-color* "#2f4359"
+	stumpwm:*mode-line-background-color* "#354e67"
 	stumpwm:*mode-line-border-color* "#47698c")
 
   ;; Set *colors*

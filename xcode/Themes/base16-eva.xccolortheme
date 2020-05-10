@@ -17,13 +17,13 @@
 	<key>DVTConsoleTextInsertionPointColor</key>
 	<string>0.8392157 0.84313726 0.8509804 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
-	<string>0.24705882 0.36078432 0.48235294 1</string>
+	<string>0.29411766 0.4117647 0.53333336 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.4 1 0.4 1</string>
 	<key>DVTMarkupTextBackgroundColor</key>
 	<string>0.16470589 0.23137255 0.3019608 1</string>
 	<key>DVTMarkupTextBorderColor</key>
-	<string>0.2784314 0.4117647 0.54901963 1</string>
+	<string>0.33333334 0.4745098 0.6117647 1</string>
 	<key>DVTMarkupTextEmphasisColor</key>
 	<string>0.8392157 0.84313726 0.8509804 1</string>
 	<key>DVTMarkupTextEmphasisFont</key>
@@ -57,15 +57,15 @@
 	<key>DVTSourceTextBackground</key>
 	<string>0.16470589 0.23137255 0.3019608 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
-	<string>0.24705882 0.36078432 0.48235294 1</string>
+	<string>0.29411766 0.4117647 0.53333336 1</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
-	<string>0.20784314 0.30588236 0.40392157 1</string>
+	<string>0.23921569 0.3372549 0.43529412 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
 	<string>0.8392157 0.84313726 0.8509804 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
-	<string>0.45882353 0.54509807 0.63529414 1</string>
+	<string>0.49411765 0.5647059 0.6392157 1</string>
 	<key>DVTSourceTextSelectionColor</key>
-	<string>0.24705882 0.36078432 0.48235294 1</string>
+	<string>0.29411766 0.4117647 0.53333336 1</string>
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
@@ -73,9 +73,9 @@
 		<key>xcode.syntax.character</key>
 		<string>1 0.6 0.4 1</string>
 		<key>xcode.syntax.comment</key>
-		<string>0.2784314 0.4117647 0.54901963 1</string>
+		<string>0.33333334 0.4745098 0.6117647 1</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>0.2784314 0.4117647 0.54901963 1</string>
+		<string>0.33333334 0.4745098 0.6117647 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>0.6117647 0.42352942 0.827451 1</string>
 		<key>xcode.syntax.declaration.other</key>

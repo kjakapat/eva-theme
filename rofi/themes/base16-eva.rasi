@@ -10,7 +10,7 @@
     red:                         rgba ( 196, 103, 108, 100 % );
     blue:                        rgba ( 21, 244, 238, 100 % );
     lightfg:                     rgba ( 214, 215, 217, 100 % );
-    lightbg:                     rgba ( 53, 78, 103, 100 % );
+    lightbg:                     rgba ( 61, 86, 111, 100 % );
     foreground:                  rgba ( 159, 162, 166, 100 % );
     background:                  rgba ( 42, 59, 77, 100 % );
     background-color:            rgba ( 42, 59, 77, 0 % );

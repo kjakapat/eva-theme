@@ -10,10 +10,10 @@ local property, property_int = buffer.property, buffer.property_int
 
 -- Base16 colors
 property['color.base00'] = 0x4d3b2a
-property['color.base01'] = 0x674e35
-property['color.base02'] = 0x7b5c3f
-property['color.base03'] = 0x8c6947
-property['color.base04'] = 0xa28b75
+property['color.base01'] = 0x6f563d
+property['color.base02'] = 0x88694b
+property['color.base03'] = 0x9c7955
+property['color.base04'] = 0xa3907e
 property['color.base05'] = 0xa6a29f
 property['color.base06'] = 0xd9d7d6
 property['color.base07'] = 0xffffff

@@ -2,10 +2,10 @@
 // Scheme: kjakapat (https://github.com/kjakapat)
 
 base00 = '#2a3b4d';
-base01 = '#354e67';
-base02 = '#3f5c7b';
-base03 = '#47698c';
-base04 = '#758ba2';
+base01 = '#3d566f';
+base02 = '#4b6988';
+base03 = '#55799c';
+base04 = '#7e90a3';
 base05 = '#9fa2a6';
 base06 = '#d6d7d9';
 base07 = '#ffffff';

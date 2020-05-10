@@ -1,10 +1,10 @@
 {
     "name": "base16-eva",
     "background": "#2a3b4d",
-    "selectionBackground": "#3f5c7b",
+    "selectionBackground": "#4b6988",
     "black": "#2a3b4d",
     "blue": "#15f4ee",
-    "brightBlack": "#47698c",
+    "brightBlack": "#55799c",
     "brightBlue": "#15f4ee",
     "brightCyan": "#4b8f77",
     "brightGreen": "#66ff66",

@@ -8,10 +8,10 @@ let g:airline#themes#base16_{s:scheme_slug}#palette = {}
 
 " GUI color definitions
 let s:gui00 = '#2a3b4d'
-let s:gui01 = '#354e67'
-let s:gui02 = '#3f5c7b'
-let s:gui03 = '#47698c'
-let s:gui04 = '#758ba2'
+let s:gui01 = '#3d566f'
+let s:gui02 = '#4b6988'
+let s:gui03 = '#55799c'
+let s:gui04 = '#7e90a3'
 let s:gui05 = '#9fa2a6'
 let s:gui06 = '#d6d7d9'
 let s:gui07 = '#ffffff'

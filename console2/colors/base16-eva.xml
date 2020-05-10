@@ -9,8 +9,8 @@
 			<color  id="4" r="196" g="103" b="108"/> <!-- red -->
 			<color  id="5" r="156" g="108" b="211"/> <!-- magenta -->
 			<color  id="6" r="255" g="153" b="102"/> <!-- yellow/brown -->
-			<color  id="7" r="117" g="139" b="162"/> <!-- white -->
-			<color  id="8" r="71" g="105" b="140"/> <!-- brblack -->
+			<color  id="7" r="126" g="144" b="163"/> <!-- white -->
+			<color  id="8" r="85" g="121" b="156"/> <!-- brblack -->
 			<color  id="9" r="75" g="143" b="119"/> <!-- brblue -->
 			<color id="10" r="255" g="255" b="102"/> <!-- brgreen -->
 			<color id="11" r="75" g="143" b="119"/> <!-- brcyan -->

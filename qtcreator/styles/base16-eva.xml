@@ -13,20 +13,20 @@
   <style name="Link"/>
 
   <!-- selection, current line, search, matching brackets -->
-  <style name="Selection" background="#3f5c7b"/>
-  <style name="CurrentLine" background="#47698c"/>
-  <style name="LineNumber" foreground="#47698c"/>
-  <style name="CurrentLineNumber" foreground="#758ba2" bold="true"/>
-  <style name="SearchResult" background="#354e67"/>
-  <style name="Parentheses" background="#3f5c7b" />
+  <style name="Selection" background="#4b6988"/>
+  <style name="CurrentLine" background="#55799c"/>
+  <style name="LineNumber" foreground="#55799c"/>
+  <style name="CurrentLineNumber" foreground="#7e90a3" bold="true"/>
+  <style name="SearchResult" background="#3d566f"/>
+  <style name="Parentheses" background="#4b6988" />
   <style name="ParenthesesMismatch" background="#9c6cd3" />
 
   <!-- Selection whilst searching in it -->
-  <style name="SearchScope" foreground="#ffffff" background="#47698c"/>
+  <style name="SearchScope" foreground="#ffffff" background="#55799c"/>
 
   <!-- word (symbol) under cursor: background - color of marking frame, foreground - ignored -->
-  <style name="Occurrences" background="#47698c"/>
-  <style name="Occurrences.Rename" background="#758ba2"/>
+  <style name="Occurrences" background="#55799c"/>
+  <style name="Occurrences.Rename" background="#7e90a3"/>
   <!-- unused variable: foreground - color of underlining -->
   <style name="Occurrences.Unused" foreground="#ff9966"/>
 
@@ -56,13 +56,13 @@
   <style name="JsGlobalVar" foreground="#9fa2a6" italic="true"/>
 
   <!-- whitespace -->
-  <style name="VisualWhitespace" foreground="#3f5c7b"/>
+  <style name="VisualWhitespace" foreground="#4b6988"/>
 
   <!-- comments -->
-  <style name="Comment" foreground="#47698c"/>
-  <style name="DisabledCode" foreground="#47698c"/>
-  <style name="Doxygen.Comment" foreground="#47698c"/>
-  <style name="Doxygen.Tag" foreground="#47698c"/>
+  <style name="Comment" foreground="#55799c"/>
+  <style name="DisabledCode" foreground="#55799c"/>
+  <style name="Doxygen.Comment" foreground="#55799c"/>
+  <style name="Doxygen.Tag" foreground="#55799c"/>
 
   <!-- QML -->
   <style name="QmlTypeId" foreground="#9c6cd3"/>
@@ -85,9 +85,9 @@
   <style name="DiffFileLine" foreground="#9c6cd3"/>
   <style name="DiffContextLine" foreground="#15f4ee"/>
   <style name="DiffSourceLine" foreground="#66ff66"/>
-  <style name="DiffSourceChar" foreground="#ffff66" background="#354e67"/>
+  <style name="DiffSourceChar" foreground="#ffff66" background="#3d566f"/>
   <style name="DiffDestLine" foreground="#66ff66"/>
-  <style name="DiffDestChar" foreground="#ffff66" background="#354e67"/>
+  <style name="DiffDestChar" foreground="#ffff66" background="#3d566f"/>
 
   <!-- errors, warnings -->
   <style name="Error" underlineColor="#c4676c" underlineStyle="SingleUnderline"/>

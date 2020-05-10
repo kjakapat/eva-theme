@@ -29,12 +29,12 @@
         <option name="FILESTATUS_DELETED" value="c4676c" />
         <option name="FILESTATUS_HIJACKED" value="ffff66" />
         <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="c4676c" />
-        <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="47698c" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="55799c" />
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="c4676c" />
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="c4676c" />
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="c4676c" />
         <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="66ff66" />
-        <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="47698c" />
+        <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="55799c" />
         <option name="FILESTATUS_MERGED" value="65738e" />
         <option name="FILESTATUS_MODIFIED" value="80cbc4" />
         <option name="FILESTATUS_NOT_CHANGED" value="626669" />
@@ -49,26 +49,26 @@
         <option name="INDENT_GUIDE" value="37474f" />
         <option name="INFORMATION_HINT" value="2a3b4d" />
         <option name="LINE_NUMBERS_COLOR" value="475f63" />
-        <option name="METHOD_SEPARATORS_COLOR" value="47698c" />
+        <option name="METHOD_SEPARATORS_COLOR" value="55799c" />
         <option name="MODIFIED_LINES_COLOR" value="ffff66" />
         <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
         <option name="QUESTION_HINT" value="2a3b4d" />
         <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
         <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
-        <option name="RIGHT_MARGIN_COLOR" value="47698c" />
+        <option name="RIGHT_MARGIN_COLOR" value="55799c" />
         <option name="SELECTED_INDENT_GUIDE" value="80cbc4" />
         <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
-        <option name="SELECTION_BACKGROUND" value="3f5c7b" />
+        <option name="SELECTION_BACKGROUND" value="4b6988" />
         <option name="SELECTION_FOREGROUND" value="9fa2a6"/>
         <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
         <option name="TEARLINE_COLOR" value="3b4950" />
-        <option name="VCS_ANNOTATIONS_COLOR_1" value="47698c" />
-        <option name="VCS_ANNOTATIONS_COLOR_2" value="47698c" />
+        <option name="VCS_ANNOTATIONS_COLOR_1" value="55799c" />
+        <option name="VCS_ANNOTATIONS_COLOR_2" value="55799c" />
         <option name="VCS_ANNOTATIONS_COLOR_3" value="37474f" />
         <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5" />
         <option name="VCS_ANNOTATIONS_COLOR_5" value="c4676c" />
-        <option name="WHITESPACES" value="47698c" />
-        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="47698c" />
+        <option name="WHITESPACES" value="55799c" />
+        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="55799c" />
     </colors>
     <attributes>
         <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -93,7 +93,7 @@
         </option>
         <option name="APACHE_CONFIG.COMMENT">
             <value>
-                <option name="FOREGROUND" value="47698c"/>
+                <option name="FOREGROUND" value="55799c"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -137,7 +137,7 @@
         </option>
         <option name="Block comment">
             <value>
-                <option name="FOREGROUND" value="47698c"/>
+                <option name="FOREGROUND" value="55799c"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -171,7 +171,7 @@
         </option>
         <option name="BLADE_COMMENT">
             <value>
-                <option name="FOREGROUND" value="47698c"/>
+                <option name="FOREGROUND" value="55799c"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -205,7 +205,7 @@
         <option name="BREADCRUMBS_CURRENT">
             <value>
                 <option name="FOREGROUND" value="ffffff" />
-                <option name="BACKGROUND" value="47698c" />
+                <option name="BACKGROUND" value="55799c" />
             </value>
         </option>
         <option name="BREADCRUMBS_DEFAULT">
@@ -239,7 +239,7 @@
         </option>
         <option name="Block comment">
             <value>
-                <option name="FOREGROUND" value="47698c"/>
+                <option name="FOREGROUND" value="55799c"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -266,7 +266,7 @@
         </option>
         <option name="COFFEESCRIPT.BLOCK_COMMENT">
             <value>
-                <option name="FOREGROUND" value="47698c"/>
+                <option name="FOREGROUND" value="55799c"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -339,7 +339,7 @@
         </option>
         <option name="COFFEESCRIPT.LINE_COMMENT">
             <value>
-                <option name="FOREGROUND" value="47698c"/>
+                <option name="FOREGROUND" value="55799c"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -591,7 +591,7 @@
         </option>
         <option name="DEFAULT_BLOCK_COMMENT">
             <value>
-                <option name="FOREGROUND" value="47698c" />
+                <option name="FOREGROUND" value="55799c" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -627,7 +627,7 @@
         </option>
         <option name="DEFAULT_DOC_COMMENT">
             <value>
-                <option name="FOREGROUND" value="47698c" />
+                <option name="FOREGROUND" value="55799c" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -640,13 +640,13 @@
         </option>
         <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
             <value>
-                <option name="FOREGROUND" value="47698c" />
+                <option name="FOREGROUND" value="55799c" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
         <option name="DEFAULT_DOC_MARKUP">
             <value>
-                <option name="FOREGROUND" value="47698c" />
+                <option name="FOREGROUND" value="55799c" />
             </value>
         </option>
         <option name="DEFAULT_DOT">
@@ -714,7 +714,7 @@
         </option>
         <option name="DEFAULT_LINE_COMMENT">
             <value>
-                <option name="FOREGROUND" value="47698c" />
+                <option name="FOREGROUND" value="55799c" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -961,7 +961,7 @@
         </option>
         <option name="GO_BLOCK_COMMENT">
             <value>
-                <option name="FOREGROUND" value="47698c"/>
+                <option name="FOREGROUND" value="55799c"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -1046,7 +1046,7 @@
         </option>
         <option name="GO_LINE_COMMENT">
             <value>
-                <option name="FOREGROUND" value="47698c"/>
+                <option name="FOREGROUND" value="55799c"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -1216,13 +1216,13 @@
         </option>
         <option name="HOCON_DOUBLE_SLASH_COMMENT">
             <value>
-                <option name="FOREGROUND" value="47698c"/>
+                <option name="FOREGROUND" value="55799c"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
         <option name="HOCON_HASH_COMMENT">
             <value>
-                <option name="FOREGROUND" value="47698c"/>
+                <option name="FOREGROUND" value="55799c"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -1655,7 +1655,7 @@
         </option>
         <option name="MARKDOWN_BOLD_MARKER">
             <value>
-                <option name="FOREGROUND" value="47698c"/>
+                <option name="FOREGROUND" value="55799c"/>
                 <option name="FONT_TYPE" value="1"/>
             </value>
         </option>
@@ -1675,7 +1675,7 @@
         </option>
         <option name="MARKDOWN_CODE_SPAN_MARKER">
             <value>
-                <option name="FOREGROUND" value="47698c"/>
+                <option name="FOREGROUND" value="55799c"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -1720,17 +1720,17 @@
         </option>
         <option name="MARKDOWN_HEADER_MARKER">
             <value>
-                <option name="FOREGROUND" value="47698c"/>
+                <option name="FOREGROUND" value="55799c"/>
             </value>
         </option>
         <option name="MARKDOWN_HRULE">
             <value>
-                <option name="FOREGROUND" value="47698c"/>
+                <option name="FOREGROUND" value="55799c"/>
             </value>
         </option>
         <option name="MARKDOWN_IMAGE">
             <value>
-                <option name="FOREGROUND" value="47698c"/>
+                <option name="FOREGROUND" value="55799c"/>
             </value>
         </option>
         <option name="MARKDOWN_INLINE_HTML">
@@ -1747,7 +1747,7 @@
         </option>
         <option name="MARKDOWN_ITALIC_MARKER">
             <value>
-                <option name="FOREGROUND" value="47698c"/>
+                <option name="FOREGROUND" value="55799c"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -1839,7 +1839,7 @@
         </option>
         <option name="OC.BLOCK_COMMENT">
             <value>
-                <option name="FOREGROUND" value="47698c"/>
+                <option name="FOREGROUND" value="55799c"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -1940,7 +1940,7 @@
         </option>
         <option name="OC.LINE_COMMENT">
             <value>
-                <option name="FOREGROUND" value="47698c"/>
+                <option name="FOREGROUND" value="55799c"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -2113,7 +2113,7 @@
         </option>
         <option name="PHP_COMMENT">
             <value>
-                <option name="FOREGROUND" value="47698c"/>
+                <option name="FOREGROUND" value="55799c"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -2127,7 +2127,7 @@
         </option>
         <option name="PHP_DOC_COMMENT_ID">
             <value>
-                <option name="FOREGROUND" value="47698c"/>
+                <option name="FOREGROUND" value="55799c"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -2196,7 +2196,7 @@
         </option>
         <option name="PHP_MARKUP_ID">
             <value>
-                <option name="FOREGROUND" value="47698c"/>
+                <option name="FOREGROUND" value="55799c"/>
             </value>
         </option>
         <option name="PHP_NUMBER">
@@ -2328,7 +2328,7 @@
         </option>
         <option name="PY.DOC_COMMENT">
             <value>
-                <option name="FOREGROUND" value="47698c"/>
+                <option name="FOREGROUND" value="55799c"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -2369,7 +2369,7 @@
         </option>
         <option name="PY.LINE_COMMENT">
             <value>
-                <option name="FOREGROUND" value="47698c"/>
+                <option name="FOREGROUND" value="55799c"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -2558,7 +2558,7 @@
         </option>
         <option name="RHTML_COMMENT_ID">
             <value>
-                <option name="FOREGROUND" value="47698c"/>
+                <option name="FOREGROUND" value="55799c"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -2621,7 +2621,7 @@
         </option>
         <option name="RUBY_COMMENT">
             <value>
-                <option name="FOREGROUND" value="47698c" />
+                <option name="FOREGROUND" value="55799c" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -2791,7 +2791,7 @@
         </option>
         <option name="ReSharper.ASP_NET_COMMENT">
             <value>
-                <option name="FOREGROUND" value="47698c"/>
+                <option name="FOREGROUND" value="55799c"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>

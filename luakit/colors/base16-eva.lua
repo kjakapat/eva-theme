@@ -1,4 +1,4 @@
--- Base16 eva color 
+-- Base16 Eva color 
 -- Author: kjakapat (https://github.com/kjakapat)
 -- to be use in your theme.lua
 -- symlink or copy to config folder `local color = require('color')`

@@ -1,0 +1,37 @@
+/**
+ * Base16 Eva Dim ROFI Color theme
+ *
+ * Authors
+ *  Scheme: kjakapat (https://github.com/kjakapat)
+ *  Template: Jordi Pakey-Rodriguez (https://github.com/0xdec), Andrea Scarpino (https://github.com/ilpianista)
+ */
+
+* {
+    red:                         rgba ( 196, 103, 108, 100 % );
+    blue:                        rgba ( 26, 225, 220, 100 % );
+    lightfg:                     rgba ( 214, 215, 217, 100 % );
+    lightbg:                     rgba ( 61, 86, 111, 100 % );
+    foreground:                  rgba ( 159, 162, 166, 100 % );
+    background:                  rgba ( 42, 59, 77, 100 % );
+    background-color:            rgba ( 42, 59, 77, 0 % );
+    separatorcolor:              @foreground;
+    border-color:                @foreground;
+    selected-normal-foreground:  @lightbg;
+    selected-normal-background:  @lightfg;
+    selected-active-foreground:  @background;
+    selected-active-background:  @blue;
+    selected-urgent-foreground:  @background;
+    selected-urgent-background:  @red;
+    normal-foreground:           @foreground;
+    normal-background:           @background;
+    active-foreground:           @blue;
+    active-background:           @background;
+    urgent-foreground:           @red;
+    urgent-background:           @background;
+    alternate-normal-foreground: @foreground;
+    alternate-normal-background: @lightbg;
+    alternate-active-foreground: @blue;
+    alternate-active-background: @lightbg;
+    alternate-urgent-foreground: @red;
+    alternate-urgent-background: @lightbg;
+}

@@ -2,7 +2,7 @@
 
 # base16-prompt-toolkit (https://github.com/memeplex/base16-prompt-toolkit)
 # Base16 Prompt Toolkit template by Carlos Pita (carlosjosepita@gmail.com
-# eva scheme by kjakapat (https://github.com/kjakapat)
+# Eva scheme by kjakapat (https://github.com/kjakapat)
 
 try:
   # older than v2

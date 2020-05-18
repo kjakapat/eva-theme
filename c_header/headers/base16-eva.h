@@ -1,6 +1,6 @@
 /* base16-c_header (https://github.com/m1sports20/base16-c_header)
  * by Michael Spradling (http://mspradling.com)
- * eva schema by kjakapat (https://github.com/kjakapat)
+ * Eva schema by kjakapat (https://github.com/kjakapat)
  *
  * This is a standard c header that can be included in any c project.
 */

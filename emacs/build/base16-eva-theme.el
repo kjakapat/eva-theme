@@ -28,7 +28,7 @@
     :base0D "#15f4ee"
     :base0E "#9c6cd3"
     :base0F "#bb64a9")
-  "All colors for Base16 eva are defined here.")
+  "All colors for Base16 Eva are defined here.")
 
 ;; Define the theme
 (deftheme base16-eva)

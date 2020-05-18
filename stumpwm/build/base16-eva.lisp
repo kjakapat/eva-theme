@@ -1,5 +1,5 @@
 (progn
-  ;; Base16 eva
+  ;; Base16 Eva
   ;; Author: kjakapat (https://github.com/kjakapat)
 
   (stumpwm:set-fg-color "#7e90a3")

@@ -1,4 +1,4 @@
-# Base16 eva
+# Base16 Eva
 # Author: kjakapat (https://github.com/kjakapat)
 
 set -l color00 '#2a3b4d'

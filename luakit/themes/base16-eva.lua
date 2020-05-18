@@ -1,5 +1,5 @@
 --
--- Base16 eva
+-- Base16 Eva
 -- Author: kjakapat (https://github.com/kjakapat)
 --
 

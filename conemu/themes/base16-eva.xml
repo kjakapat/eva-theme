@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-    Base16 eva
+    Base16 Eva
     Template: Chris Kempson, Scheme: kjakapat (https://github.com/kjakapat)
     semanticClass: theme.base16.eva
 -->
 <key name="Palette1">
-    <value name="Name" type="string" data="Base16 eva"/>
+    <value name="Name" type="string" data="Base16 Eva"/>
     <value name="ExtendColors" type="hex" data="00"/>
     <value name="ExtendColorIdx" type="hex" data="0e"/>
     <value name="TextColorIdx" type="hex" data="10"/>

@@ -1,4 +1,4 @@
--- Base16 Theme: eva
+-- Base16 Theme: Eva
 -- http://chriskempson.com/projects/base16/
 -- Theme author: kjakapat (https://github.com/kjakapat)
 -- Template Repository: https://github.com/rgieseke/base16-textadept

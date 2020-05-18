@@ -1,6 +1,6 @@
 ## base16-kakoune (https://github.com/leira/base16-kakoune)
 ## by Leira Hua
-## eva scheme by kjakapat (https://github.com/kjakapat)
+## Eva scheme by kjakapat (https://github.com/kjakapat)
 
 evaluate-commands %sh{
     base00='rgb:2a3b4d'

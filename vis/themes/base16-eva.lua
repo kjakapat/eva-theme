@@ -1,6 +1,6 @@
 -- base16-vis (https://github.com/pshevtsov/base16-vis)
 -- by Petr Shevtsov
--- eva scheme by kjakapat (https://github.com/kjakapat)
+-- Eva scheme by kjakapat (https://github.com/kjakapat)
 
 local lexers = vis.lexers
 

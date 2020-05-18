@@ -1,6 +1,6 @@
 {
     "$schema": "vscode://schemas/color-theme",
-    "name": "Base16 eva",
+    "name": "Base16 Eva",
     "type": "dark",
     "colors": {
         // Contrast colors

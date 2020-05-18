@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme version="1.0" name="Base16 eva">
+<style-scheme version="1.0" name="Base16 Eva">
   <!--
   base16-qtcreator (https://github.com/ilpianista/base16-qtcreator)
   by Chris Kempson (http://chriskempson.com)
-  eva scheme by kjakapat (https://github.com/kjakapat)
+  Eva scheme by kjakapat (https://github.com/kjakapat)
   -->
 
   <!-- main colors, skipping one of attributes (backgroud/foreground) will use color from here -->

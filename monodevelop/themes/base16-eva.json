@@ -1,7 +1,7 @@
 {
-    "name":"base16-eva",
+    "name":"base16-Eva",
     "version":"1.0",
-    "description":"base16-eva",
+    "description":"base16-Eva",
     "originator":"kjakapat (https://github.com/kjakapat) - eva",
     "colors":[
         {"name": "Background(Read Only)", "color":"#252620" },

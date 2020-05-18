@@ -1,4 +1,4 @@
-" Base16 eva vim-airline-theme (https://github.com/dawikur/base16-vim-airline-themes)
+" Base16 Eva vim-airline-theme (https://github.com/dawikur/base16-vim-airline-themes)
 " For vim-airline (https://github.com/vim-airline/vim-airline)
 " By kjakapat (https://github.com/kjakapat)
 

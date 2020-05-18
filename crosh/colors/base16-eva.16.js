@@ -1,4 +1,4 @@
-// Base16 eva
+// Base16 Eva
 // Scheme: kjakapat (https://github.com/kjakapat)
 
 var color_scheme = {

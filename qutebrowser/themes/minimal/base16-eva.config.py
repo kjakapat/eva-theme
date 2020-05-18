@@ -1,6 +1,6 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
 # Base16 qutebrowser template by theova and Daniel Mulford
-# eva scheme by kjakapat (https://github.com/kjakapat)
+# Eva scheme by kjakapat (https://github.com/kjakapat)
 
 base00 = "#2a3b4d"
 base01 = "#3d566f"

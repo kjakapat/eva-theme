@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Eva Dim
+; schema by kjakapat (https://github.com/kjakapat)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\eva-dim]
+
+; Default Foreground
+"Colour0"="159,162,166"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="159,162,166"
+
+; Default Background
+"Colour2"="42,59,77"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="42,59,77"
+
+; Cursor Text -- equals to default background
+"Colour4"="42,59,77"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="159,162,166"
+
+; ANSI Black
+"Colour6"="42,59,77"
+
+; ANSI Black Bold
+"Colour7"="85,121,156"
+
+; ANSI Red
+"Colour8"="196,103,108"
+
+; ANSI Red Bold
+"Colour9"="255,153,102"
+
+; ANSI Green
+"Colour10"="93,229,97"
+
+; ANSI Green Bold
+"Colour11"="61,86,111"
+
+; ANSI Yellow
+"Colour12"="207,208,93"
+
+; ANSI Yellow Bold
+"Colour13"="75,105,136"
+
+; ANSI Blue
+"Colour14"="26,225,220"
+
+; ANSI Blue Bold
+"Colour15"="126,144,163"
+
+; ANSI Magenta
+"Colour16"="156,108,211"
+
+; ANSI Magenta Bold
+"Colour17"="214,215,217"
+
+; ANSI Cyan
+"Colour18"="75,143,119"
+
+; ANSI Cyan Bold
+"Colour19"="187,100,169"
+
+; ANSI White
+"Colour20"="159,162,166"
+
+; ANSI White Bold
+"Colour21"="255,255,255"
+

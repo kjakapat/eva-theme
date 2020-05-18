@@ -1,0 +1,61 @@
+
+# base16 Eva Dim by kjakapat (https://github.com/kjakapat)
+
+.colors *
+
+-text		$9fa2a6/$2a3b4d
+-status		$7e90a3/$4b6988
+-cursor		$2a3b4d/$9fa2a6
+-selection	/$4b6988
+-curlin		/$3d566f
+-linum		$55799c/$3d566f
+-curlinum	$7e90a3/$3d566f
+-menusel	$3d566f/$7e90a3
+
+-term 0 	$2a3b4d
+-term 1 	$1ae1dc
+-term 2 	$5de561
+-term 3 	$4b8f77
+-term 4 	$ff9966
+-term 5 	$9c6cd3
+-term 6 	$cfd05d
+-term 7 	$7e90a3
+-term 8 	$55799c
+-term 9 	$1ae1dc
+-term 10	$5de561
+-term 11	$4b8f77
+-term 12	$c4676c
+-term 13	$bb64a9
+-term 14	$cfd05d
+-term 15	$ffffff
+
+=Constant	$ff9966
+=String		$5de561
+=Escape		$4b8f77
+
+=Comment	$55799c
+=StorageClass	+Type
+=Keyword	$9c6cd3
+=Conditional	$9c6cd3
+=Operator	$9fa2a6
+=Loop		$cfd05d
+=Statement	$c4676c
+=Type		$cfd05d
+
+=DefinedIdent	$c4676c
+=Label		$cfd05d
+=DefinedType	$cfd05d
+=Structure	$9c6cd3
+
+=Preproc	$cfd05d
+=Include	$1ae1dc
+=Define		$9c6cd3
+=TODO		$cfd05d/$3d566f
+=Precond	$9c6cd3
+
+=diff.AddLine	$5de561/$3d566f
+=diff.ChgLine	$55799c/$3d566f
+=diff.DelLine	$c4676c/$3d566f
+=diff.File	$c4676c
+=diff.FileNew	$5de561
+=diff.Hunk	$1ae1dc

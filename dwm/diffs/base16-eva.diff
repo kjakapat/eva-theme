@@ -14,7 +14,7 @@ index 1c0b587..efdbcc4 100644
 +
 +/*
 + * Base16 dwm template by Daniel Mulford
-+ * eva scheme by kjakapat (https://github.com/kjakapat)
++ * Eva scheme by kjakapat (https://github.com/kjakapat)
 + */
 +static const char col_base00[]      = "#2a3b4d";
 +static const char col_base01[]      = "#3d566f";

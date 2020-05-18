@@ -1,7 +1,7 @@
 # vi:syntax=toml
 
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
-# eva by kjakapat (https://github.com/kjakapat)
+# Eva by kjakapat (https://github.com/kjakapat)
 
 [theme]
 name = "solarized-dark"

@@ -10,7 +10,7 @@ index 0e01717..c288227 100644
 +/*
 + * Terminal colors (16 first used in escape sequence)
 + * Base16 st template by Daniel Mulford
-+ * eva scheme by kjakapat (https://github.com/kjakapat)
++ * Eva scheme by kjakapat (https://github.com/kjakapat)
 + */
  static const char *colorname[] = {
 -	/* 8 normal colors */

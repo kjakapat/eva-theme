@@ -5,7 +5,7 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: kjakapat (https://github.com/kjakapat)</string>
 	<key>name</key>
-	<string>Base16 eva</string>
+	<string>Base16 Eva</string>
 	<key>semanticClass</key>
 	<string>theme.base16.eva</string>
 	<key>colorSpaceName</key>

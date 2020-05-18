@@ -1,4 +1,4 @@
-[eva]
+[Eva]
 text=9fa2a6
 text(bold)=9fa2a6
 background=2a3b4d
@@ -19,5 +19,5 @@ cyan(bold)=bb64a9
 white=9fa2a6
 white(bold)=ffffff
 [Names]
-name0=eva
+name0=Eva
 count=1

@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
-# Base16 eva - Gnome Terminal color scheme install script
+# Base16 Eva - Gnome Terminal color scheme install script
 # kjakapat (https://github.com/kjakapat)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 eva 256"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Eva 256"
 [[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-eva-256"
 [[ -z "$DCONF" ]] && DCONF=dconf
 [[ -z "$UUIDGEN" ]] && UUIDGEN=uuidgen

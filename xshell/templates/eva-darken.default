@@ -1,0 +1,23 @@
+[Base16 Eva Darken]
+text=a6a6a6
+text(bold)=a6a6a6
+background=193145
+black=193145
+black(bold)=5e707f
+red=df676a
+red(bold)=ff9966
+green=66ff66
+green(bold)=2b4458
+yellow=ffff66
+yellow(bold)=43596c
+blue=16d2ce
+blue(bold)=7f8992
+magenta=a277e3
+magenta(bold)=d2d2d2
+cyan=379d80
+cyan(bold)=dd5bb9
+white=a6a6a6
+white(bold)=ffffff
+[Names]
+name0=Base16 Eva Darken
+count=1

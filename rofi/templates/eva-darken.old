@@ -1,0 +1,33 @@
+! Base16 Eva Darken
+! Author: kjakapat (https://github.com/kjakapat)
+
+! base00: #193145
+! base01: #2b4458
+! base02: #43596c
+! base03: #5e707f
+! base04: #7f8992
+! base05: #a6a6a6
+! base06: #d2d2d2
+! base07: #ffffff
+! base08: #df676a
+! base09: #ff9966
+! base0A: #ffff66
+! base0B: #66ff66
+! base0C: #379d80
+! base0D: #16d2ce
+! base0E: #a277e3
+! base0F: #dd5bb9
+
+! Enable the extended coloring options
+rofi.color-enabled: true
+
+! Property Name     BG       Border   Separator
+rofi.color-window:  #2b4458, #2b4458, #193145
+
+! Property Name     BG       FG       BG-alt   Head-BG  Head-FG
+rofi.color-normal:  #2b4458, #a6a6a6, #2b4458, #2b4458, #ffffff
+rofi.color-active:  #2b4458, #16d2ce, #2b4458, #2b4458, #16d2ce
+rofi.color-urgent:  #2b4458, #df676a, #2b4458, #2b4458, #df676a
+
+! Set the desired separator style
+rofi.separator-style: solid

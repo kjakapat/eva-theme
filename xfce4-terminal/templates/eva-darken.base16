@@ -1,0 +1,10 @@
+# Scheme name: Eva Darken
+# Scheme author: kjakapat (https://github.com/kjakapat)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
+[Scheme]
+Name=-eva-darken
+ColorForeground=#a6a6a6
+ColorBackground=#193145
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#193145;#df676a;#66ff66;#ffff66;#16d2ce;#a277e3;#379d80;#a6a6a6;#43596c;#df676a;#66ff66;#ffff66;#16d2ce;#a277e3;#379d80;#ffffff

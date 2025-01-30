@@ -1,0 +1,5 @@
+# Base16 Eva Darken for gtk2 (https://github.com/dawikur/base16-gtk2)
+# By kjakapat (https://github.com/kjakapat)
+
+gtk-color-scheme = "bg_color:#193145\nfg_color:#a6a6a6\nbase_color:#193145\ntext_color:#a6a6a6\nselected_bg_color:#43596c\nselected_fg_color:#a6a6a6\ntooltip_bg_color:#193145\ntooltip_fg_color:#7f8992\ntitlebar_bg_color:#193145\ntitlebar_fg_color:#16d2ce\nmenubar_bg_color:#193145\nmenubar_fg_color:#16d2ce\ntoolbar_bg_color:#193145\ntoolbar_fg_color:#ffff66\nmenu_bg_color:#193145\nmenu_fg_color:#a6a6a6\npanel_bg_color:#193145\npanel_fg_color:#66ff66\nlink_color:#ff9966"
+

@@ -1,0 +1,42 @@
+# Base16 Eva Darken - amfora color config
+# kjakapat (https://github.com/kjakapat)
+
+[theme]
+bg = "#193145"
+fg = "#a6a6a6"
+
+bottombar_label = "#a277e3"
+bottombar_text = "#a6a6a6"
+bottombar_bg = "#2b4458"
+
+tab_num = "#43596c"
+tab_divider = "#7f8992"
+
+amfora_link = "#66ff66"
+foreign_link = "#5e707f"
+link_number = "#5e707f"
+
+btn_bg = "#2b4458"
+btn_text = "#a6a6a6"
+
+input_modal_bg = "#2b4458"
+input_modal_text = "#a6a6a6"
+input_modal_field_bg = "#193145"
+input_modal_field_text = "#a6a6a6"
+info_modal_bg = "#2b4458"
+info_modal_text = "#a6a6a6"
+error_modal_bg = "#2b4458"
+error_modal_text = "#dd5bb9"
+yesno_modal_bg = "#2b4458"
+yesno_modal_text = "#a6a6a6"
+tofu_modal_bg = "#2b4458"
+tofu_modal_text = "#a6a6a6"
+subscription_modal_bg = "#2b4458"
+subscription_modal_text = "#a6a6a6"
+
+hdg_1 = "#ff9966"
+hdg_2 = "#ffff66"
+hdg_3 = "#16d2ce"
+regular_text = "#a6a6a6"
+preformatted_text = "#379d80"
+list_text = "#a6a6a6"

@@ -1,0 +1,32 @@
+# Base16 Eva Darken
+# Author: kjakapat (https://github.com/kjakapat)
+
+set default-bg                  "#193145"
+set default-fg                  "#2b4458"
+
+set statusbar-fg                "#7f8992"
+set statusbar-bg                "#43596c"
+
+set inputbar-bg                 "#193145"
+set inputbar-fg                 "#ffffff"
+
+set notification-bg             "#193145"
+set notification-fg             "#ffffff"
+
+set notification-error-bg       "#193145"
+set notification-error-fg       "#df676a"
+
+set notification-warning-bg     "#193145"
+set notification-warning-fg     "#df676a"
+
+set highlight-color             "#ffff66"
+set highlight-active-color      "#16d2ce"
+
+set completion-bg               "#2b4458"
+set completion-fg               "#16d2ce"
+
+set completion-highlight-fg     "#ffffff"
+set completion-highlight-bg     "#16d2ce"
+
+set recolor-lightcolor          "#193145"
+set recolor-darkcolor           "#d2d2d2"

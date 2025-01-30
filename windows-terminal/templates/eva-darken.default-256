@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Eva Darken 256",
+    "foreground": "#a6a6a6",
+    "background": "#193145",
+    "cursorColor": "#a6a6a6",
+    "selectionBackground": "#43596c",
+    "black": "#193145",
+    "red": "#df676a",
+    "green": "#66ff66",
+    "yellow": "#ffff66",
+    "blue": "#16d2ce",
+    "purple": "#a277e3",
+    "cyan": "#379d80",
+    "white": "#a6a6a6",
+    "brightBlack": "#5e707f",
+    "brightRed": "#df676a",
+    "brightGreen": "#66ff66",
+    "brightYellow": "#ffff66",
+    "brightBlue": "#16d2ce",
+    "brightPurple": "#a277e3",
+    "brightCyan": "#379d80",
+    "brightWhite": "#ffffff"
+}

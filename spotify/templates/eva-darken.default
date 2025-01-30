@@ -1,0 +1,16 @@
+[Base]
+main_fg                               = a6a6a6
+secondary_fg                          = 7f8992
+main_bg                               = 193145
+sidebar_and_player_bg                 = 193145
+cover_overlay_and_shadow              = 2b4458
+indicator_fg_and_button_bg            = df676a
+pressing_fg                           = 43596c
+slider_bg                             = 7f8992
+sidebar_indicator_and_hover_button_bg = df676a
+scrollbar_fg_and_selected_row_bg      = 5e707f
+pressing_button_fg                    = 7f8992
+pressing_button_bg                    = df676a
+selected_button                       = df676a
+miscellaneous_bg                      = 43596c
+miscellaneous_hover_bg                = 5e707f

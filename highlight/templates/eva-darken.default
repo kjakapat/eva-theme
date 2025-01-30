@@ -1,0 +1,26 @@
+-- Name: Base16 Eva Darken
+-- Author: kjakapat (https://github.com/kjakapat)
+-- Template by Bez Hermoso <bezalelhermoso@gmail.com>
+
+Description = "Base16 Eva Darken"
+
+Default = { Colour = "#a6a6a6" }
+Canvas = { Colour="#193145" }
+Number = { Colour="#ff9966" }
+Escape = { Colour="#d2d2d2" , Italic=true}
+String = { Colour="#66ff66" }
+BlockComment = { Colour="#5e707f" }
+StringPreProc = String
+LineComment   = BlockComment
+Operator      = { Colour="#a6a6a6" }
+LineNum      = { Colour="#5e707f" }
+PreProcessor      = { Colour="#dd5bb9" }
+Interpolation  = Escape
+
+Keywords = {
+  { Colour="#df676a", Bold=true},
+  { Colour="#ffff66"},
+  { Colour="#16d2ce"},
+  { Colour="#ffff66"},
+  { Colour="#ffff66" }
+}

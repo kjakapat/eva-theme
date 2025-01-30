@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Eva Darken by kjakapat (https://github.com/kjakapat)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#193145"
+idle_fg = "#a6a6a6"
+info_bg = "#379d80"
+info_fg = "#193145"
+good_bg = "#66ff66"
+good_fg = "#193145"
+warning_bg = "#ffff66"
+warning_fg = "#193145"
+critical_bg = "#df676a"
+critical_fg = "#193145"
+# The rest of the theme settings are left at default.

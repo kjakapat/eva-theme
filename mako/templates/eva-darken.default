@@ -1,0 +1,18 @@
+## Base16 Eva Darken
+# Author: kjakapat (https://github.com/kjakapat)
+#
+# You can use these variables anywhere in the mako configuration file.
+
+background-color=#193145
+text-color=#a6a6a6
+border-color=#16d2ce
+
+[urgency=low]
+background-color=#193145
+text-color=#ffff66
+border-color=#16d2ce
+
+[urgency=high]
+background-color=#193145
+text-color=#df676a
+border-color=#16d2ce

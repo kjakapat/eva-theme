@@ -1,0 +1,30 @@
+/* base16-wofi (https://sr.ht/~knezi/base16-wofi)
+ * Base16 wofi template by knezi
+ * Eva scheme by kjakapat (https://github.com/kjakapat) */
+
+window {
+	background-color: #2a3b4d;
+	color: #9fa2a6;
+}
+
+#entry:nth-child(odd) {
+	background-color: #2a3b4d;
+}
+
+#entry:nth-child(even) {
+	background-color: #3d566f;
+}
+
+#entry:selected {
+	background-color: #4b6988;
+}
+
+#input {
+	background-color: #3d566f;
+	color: #7e90a3;
+	border-color: #4b6988; 
+}
+
+#input:focus {
+	border-color: #ffff66; 
+}

@@ -1,0 +1,31 @@
+; base16-eva-dim
+;
+; base16: (https://github.com/chriskempson/base16)
+;
+; Scheme: kjakapat (https://github.com/kjakapat)
+; Template: Christian Karl <karlch at protonmail dot com>
+
+[STYLE]
+; Colors
+base00 = #2a3b4d
+base01 = #3d566f
+base02 = #4b6988
+base03 = #55799c
+base04 = #7e90a3
+base05 = #9fa2a6
+base06 = #d6d7d9
+base07 = #ffffff
+base08 = #c4676c
+base09 = #ff9966
+base0a = #cfd05d
+base0b = #5de561
+base0c = #4b8f77
+base0d = #1ae1dc
+base0e = #9c6cd3
+base0f = #bb64a9
+
+; Additional custom overrides, e.g.
+; font = 10pt Hack
+; thumbnail.padding = 32
+
+; vim:ft=dosini

@@ -1,0 +1,33 @@
+[colors]
+#  Eva Darken
+# Scheme author: kjakapat (https://github.com/kjakapat)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termite)
+
+foreground          = #a6a6a6
+foreground_bold     = #a6a6a6
+cursor              = #a6a6a6
+cursor_foreground   = #193145
+background          = #193145
+
+color0  = #193145 # base00 - Black
+color1  = #df676a # base08 - Red
+color2  = #66ff66 # base0B - Green
+color3  = #ffff66 # base0A - Yellow
+color4  = #16d2ce # base0D - Blue
+color5  = #a277e3 # base0E - Magenta
+color6  = #379d80 # base0C - Cyan
+color7  = #a6a6a6 # base05 - White
+color8  = #43596c # base02 - Bright Black
+color9  = #df676a # base08 - Bright Red
+color10 = #66ff66 # base0B - Bright Green
+color11 = #ffff66 # base0A - Bright Yellow
+color12 = #16d2ce # base0D - Bright Blue
+color13 = #a277e3 # base0E - Bright Magenta
+color14 = #379d80 # base0C - Bright Cyan
+color15 = #ffffff # base07 - Bright White
+color16 = #ff9966 # base09
+color17 = #dd5bb9 # base0F
+color18 = #2b4458 # base01
+color19 = #43596c # base02
+color20 = #7f8992 # base04
+color21 = #d2d2d2 # base06

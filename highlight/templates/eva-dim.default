@@ -1,0 +1,26 @@
+-- Name: Base16 Eva Dim
+-- Author: kjakapat (https://github.com/kjakapat)
+-- Template by Bez Hermoso <bezalelhermoso@gmail.com>
+
+Description = "Base16 Eva Dim"
+
+Default = { Colour = "#9fa2a6" }
+Canvas = { Colour="#2a3b4d" }
+Number = { Colour="#ff9966" }
+Escape = { Colour="#d6d7d9" , Italic=true}
+String = { Colour="#5de561" }
+BlockComment = { Colour="#55799c" }
+StringPreProc = String
+LineComment   = BlockComment
+Operator      = { Colour="#9fa2a6" }
+LineNum      = { Colour="#55799c" }
+PreProcessor      = { Colour="#bb64a9" }
+Interpolation  = Escape
+
+Keywords = {
+  { Colour="#c4676c", Bold=true},
+  { Colour="#cfd05d"},
+  { Colour="#1ae1dc"},
+  { Colour="#cfd05d"},
+  { Colour="#cfd05d" }
+}

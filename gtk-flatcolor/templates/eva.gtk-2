@@ -1,0 +1,16 @@
+## Base16 Eva
+# Scheme author: kjakapat (https://github.com/kjakapat)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#2a3b4d
+color0:#2a3b4d
+text_color:#9fa2a6
+selected_bg_color:#4b6988
+selected_fg_color:#9fa2a6
+tooltip_bg_color:#2a3b4d
+tooltip_fg_color:#9fa2a6
+titlebar_bg_color:#2a3b4d
+titlebar_fg_color:#9fa2a6
+menu_bg_color:#2a3b4d
+menu_fg_color:#9fa2a6
+link_color:#4b6988"

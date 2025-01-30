@@ -1,0 +1,16 @@
+/*
+Base16 Eva Dim
+Scheme author: kjakapat (https://github.com/kjakapat)
+Template author: Tinted Theming (https://github.com/tinted-theming)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #2a3b4d;
+@define-color fg_color #9fa2a6;
+@define-color base_color #3d566f;
+@define-color text_color #9fa2a6;
+@define-color text_color_disabled #55799c;
+@define-color selected_bg_color #4b6988;
+@define-color selected_fg_color #9fa2a6;
+@define-color tooltip_bg_color #2a3b4d;
+@define-color tooltip_fg_color #9fa2a6;

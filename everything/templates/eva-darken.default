@@ -1,0 +1,8 @@
+; base16-eva-darken
+
+normal_background_color=#193145
+normal_foreground_color=#a6a6a6
+selected_background_color=#43596c
+selected_foreground_color=#a6a6a6
+selected_inactive_background_color=#2b4458
+selected_inactive_foreground_color=#a6a6a6

@@ -1,0 +1,22 @@
+## Base16 Eva Darken
+# Scheme author: kjakapat (https://github.com/kjakapat)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+#
+# You can use these variables anywhere in the i3 configuration file.
+
+set $base00 #193145
+set $base01 #2b4458
+set $base02 #43596c
+set $base03 #5e707f
+set $base04 #7f8992
+set $base05 #a6a6a6
+set $base06 #d2d2d2
+set $base07 #ffffff
+set $base08 #df676a
+set $base09 #ff9966
+set $base0A #ffff66
+set $base0B #66ff66
+set $base0C #379d80
+set $base0D #16d2ce
+set $base0E #a277e3
+set $base0F #dd5bb9

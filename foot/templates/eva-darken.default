@@ -1,0 +1,25 @@
+# Base16 Eva Darken - foot color config
+# kjakapat (https://github.com/kjakapat)
+[colors]
+background=193145
+foreground=a6a6a6
+
+# Normal colors
+regular0=193145 # Black, could also be base01
+regular1=df676a # Red
+regular2=66ff66 # Green
+regular3=ffff66 # Yellow
+regular4=16d2ce # Blue
+regular5=a277e3 # Magenta
+regular6=379d80 # Cyan
+regular7=a6a6a6 # White
+
+# Bright colors
+bright0=5e707f
+bright1=ff9966
+bright2=2b4458
+bright3=43596c
+bright4=7f8992
+bright5=d2d2d2
+bright6=dd5bb9
+bright7=ffffff

@@ -1,0 +1,42 @@
+# Base16 Eva - amfora color config
+# kjakapat (https://github.com/kjakapat)
+
+[theme]
+bg = "#2a3b4d"
+fg = "#9fa2a6"
+
+bottombar_label = "#9c6cd3"
+bottombar_text = "#9fa2a6"
+bottombar_bg = "#3d566f"
+
+tab_num = "#4b6988"
+tab_divider = "#7e90a3"
+
+amfora_link = "#66ff66"
+foreign_link = "#55799c"
+link_number = "#55799c"
+
+btn_bg = "#3d566f"
+btn_text = "#9fa2a6"
+
+input_modal_bg = "#3d566f"
+input_modal_text = "#9fa2a6"
+input_modal_field_bg = "#2a3b4d"
+input_modal_field_text = "#9fa2a6"
+info_modal_bg = "#3d566f"
+info_modal_text = "#9fa2a6"
+error_modal_bg = "#3d566f"
+error_modal_text = "#bb64a9"
+yesno_modal_bg = "#3d566f"
+yesno_modal_text = "#9fa2a6"
+tofu_modal_bg = "#3d566f"
+tofu_modal_text = "#9fa2a6"
+subscription_modal_bg = "#3d566f"
+subscription_modal_text = "#9fa2a6"
+
+hdg_1 = "#ff9966"
+hdg_2 = "#ffff66"
+hdg_3 = "#15f4ee"
+regular_text = "#9fa2a6"
+preformatted_text = "#4b8f77"
+list_text = "#9fa2a6"

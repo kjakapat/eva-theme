@@ -1,0 +1,60 @@
+!  Eva Darken
+! Scheme author: kjakapat (https://github.com/kjakapat)
+! Template author: Tinted Theming (https://github.com/tinted-theming)
+
+#define base00 #193145
+#define base01 #2b4458
+#define base02 #43596c
+#define base04 #7f8992
+#define base05 #a6a6a6
+#define base06 #d2d2d2
+#define base07 #ffffff
+#define base08 #df676a
+#define base09 #ff9966
+#define base0A #ffff66
+#define base0B #66ff66
+#define base0C #379d80
+#define base0D #16d2ce
+#define base0E #a277e3
+#define base0F #dd5bb9
+#define base12 #
+#define base13 #
+#define base14 #
+#define base15 #
+#define base16 #
+#define base17 #
+
+*foreground:   base05
+#ifdef background_opacity
+*background:   [background_opacity]base00
+#else
+*background:   base00
+#endif
+*cursorColor:  base05
+
+*color0:       base00
+*color1:       base08
+*color2:       base0B
+*color3:       base0A
+*color4:       base0D
+*color5:       base0E
+*color6:       base0C
+*color7:       base06
+
+*color8:       base02
+*color9:       base12
+*color10:      base14
+*color11:      base13
+*color12:      base16
+*color13:      base17
+*color14:      base15
+*color15:      base07
+
+! Note: colors beyond 15 might not be loaded (e.g., xterm, urxvt),
+! use 'shell' template to set these if necessary
+*color16:      base09
+*color17:      base0F
+*color18:      base01
+*color19:      base02
+*color20:      base04
+*color21:      base06

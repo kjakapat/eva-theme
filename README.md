@@ -26,7 +26,7 @@ _Note_: the contrast ratios calculated by comparing the target colors to the def
 ## Screenshots
 <img src="https://raw.githubusercontent.com/kjakapat/resources/master/eva/images/c_screenshot.png" alt="bg4" width="420"/> <img src="https://raw.githubusercontent.com/kjakapat/resources/master/eva/images/go_screenshot.png" alt="bg4" width="420"/> <img src="https://raw.githubusercontent.com/kjakapat/resources/master/eva/images/python_screenshot.png" alt="bg4" width="420"/> <img src="https://raw.githubusercontent.com/kjakapat/resources/master/eva/images/vim_screenshot.png" alt="bg4" width="420"/> 
 
-_Note_: For anyone who wants to use the Eva scheme with darker fluorescent colors, please try the alternative [eva-dim scheme](https://github.com/kjakapat/base16-eva-scheme/blob/master/eva-dim.yaml) .
+_Note_: For anyone who wants to use the Eva theme with darker fluorescent colors, try the alternative [eva-dim scheme](https://github.com/kjakapat/base16-eva-scheme/blob/master/eva-dim.yaml), and for the improved visibility version, try [eva-darken scheme](https://github.com/kjakapat/base16-eva-scheme/blob/master/eva-darken.yaml).
 
 ## Bug reports
 This repository only focuses on color designs, for any bug report, please directly go to the template repositories listed in [https://github.com/chriskempson/base16](https://github.com/chriskempson/base16). Once the bug fixed, please rebuild all themes using [https://github.com/belak/base16-builder-go](https://github.com/belak/base16-builder-go) and send a pull request to this repository.

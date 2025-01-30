@@ -1,0 +1,33 @@
+# Base16 Eva Darken - wezterm color config
+# Scheme by kjakapat (https://github.com/kjakapat)
+
+[colors]
+foreground    = "#a6a6a6"
+background    = "#193145"
+cursor_bg     = "#a6a6a6"
+cursor_border = "#a6a6a6"
+cursor_fg     = "#193145"
+selection_bg  = "#a6a6a6"
+selection_fg  = "#193145"
+
+ansi = [
+  "#193145",
+  "#df676a",
+  "#66ff66",
+  "#ffff66",
+  "#16d2ce",
+  "#a277e3",
+  "#379d80",
+  "#a6a6a6"
+]
+
+brights = [
+  "#5e707f",
+  "#df676a",
+  "#66ff66",
+  "#ffff66",
+  "#16d2ce",
+  "#a277e3",
+  "#379d80",
+  "#ffffff"
+]

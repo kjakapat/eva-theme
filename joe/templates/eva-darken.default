@@ -1,0 +1,61 @@
+
+# base16 Eva Darken by kjakapat (https://github.com/kjakapat)
+
+.colors *
+
+-text		$a6a6a6/$193145
+-status		$7f8992/$43596c
+-cursor		$193145/$a6a6a6
+-selection	/$43596c
+-curlin		/$2b4458
+-linum		$5e707f/$2b4458
+-curlinum	$7f8992/$2b4458
+-menusel	$2b4458/$7f8992
+
+-term 0 	$193145
+-term 1 	$16d2ce
+-term 2 	$66ff66
+-term 3 	$379d80
+-term 4 	$ff9966
+-term 5 	$a277e3
+-term 6 	$ffff66
+-term 7 	$7f8992
+-term 8 	$5e707f
+-term 9 	$16d2ce
+-term 10	$66ff66
+-term 11	$379d80
+-term 12	$df676a
+-term 13	$dd5bb9
+-term 14	$ffff66
+-term 15	$ffffff
+
+=Constant	$ff9966
+=String		$66ff66
+=Escape		$379d80
+
+=Comment	$5e707f
+=StorageClass	+Type
+=Keyword	$a277e3
+=Conditional	$a277e3
+=Operator	$a6a6a6
+=Loop		$ffff66
+=Statement	$df676a
+=Type		$ffff66
+
+=DefinedIdent	$df676a
+=Label		$ffff66
+=DefinedType	$ffff66
+=Structure	$a277e3
+
+=Preproc	$ffff66
+=Include	$16d2ce
+=Define		$a277e3
+=TODO		$ffff66/$2b4458
+=Precond	$a277e3
+
+=diff.AddLine	$66ff66/$2b4458
+=diff.ChgLine	$5e707f/$2b4458
+=diff.DelLine	$df676a/$2b4458
+=diff.File	$df676a
+=diff.FileNew	$66ff66
+=diff.Hunk	$16d2ce

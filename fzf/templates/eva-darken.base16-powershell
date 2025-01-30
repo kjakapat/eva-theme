@@ -1,0 +1,10 @@
+# Scheme name: Eva Darken
+# Scheme system: 
+# Scheme author: kjakapat (https://github.com/kjakapat)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+
+$ENV:FZF_DEFAULT_OPTS=@"
+--color=bg+:#2b4458,bg:#193145,spinner:#379d80,hl:#16d2ce
+--color=fg:#7f8992,header:#16d2ce,info:#ffff66,pointer:#379d80
+--color=marker:#379d80,fg+:#d2d2d2,prompt:#ffff66,hl+:#16d2ce
+"@

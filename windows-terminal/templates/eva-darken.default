@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Eva Darken",
+    "foreground": "#a6a6a6",
+    "background": "#193145",
+    "cursorColor": "#a6a6a6",
+    "selectionBackground": "#43596c",
+    "black": "#193145",
+    "red": "#df676a",
+    "green": "#66ff66",
+    "yellow": "#ffff66",
+    "blue": "#16d2ce",
+    "purple": "#a277e3",
+    "cyan": "#379d80",
+    "white": "#a6a6a6",
+    "brightBlack": "#5e707f",
+    "brightRed": "#ff9966",
+    "brightGreen": "#2b4458",
+    "brightYellow": "#43596c",
+    "brightBlue": "#7f8992",
+    "brightPurple": "#d2d2d2",
+    "brightCyan": "#dd5bb9",
+    "brightWhite": "#ffffff"
+}

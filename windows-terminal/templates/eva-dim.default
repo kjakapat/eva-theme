@@ -1,0 +1,23 @@
+{
+    "name": "Base16 Eva Dim",
+    "foreground": "#9fa2a6",
+    "background": "#2a3b4d",
+    "cursorColor": "#9fa2a6",
+    "selectionBackground": "#4b6988",
+    "black": "#2a3b4d",
+    "red": "#c4676c",
+    "green": "#5de561",
+    "yellow": "#cfd05d",
+    "blue": "#1ae1dc",
+    "purple": "#9c6cd3",
+    "cyan": "#4b8f77",
+    "white": "#9fa2a6",
+    "brightBlack": "#55799c",
+    "brightRed": "#ff9966",
+    "brightGreen": "#3d566f",
+    "brightYellow": "#4b6988",
+    "brightBlue": "#7e90a3",
+    "brightPurple": "#d6d7d9",
+    "brightCyan": "#bb64a9",
+    "brightWhite": "#ffffff"
+}

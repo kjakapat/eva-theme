@@ -1,0 +1,5 @@
+# Base16 Eva Dim for gtk2 (https://github.com/dawikur/base16-gtk2)
+# By kjakapat (https://github.com/kjakapat)
+
+gtk-color-scheme = "bg_color:#2a3b4d\nfg_color:#9fa2a6\nbase_color:#2a3b4d\ntext_color:#9fa2a6\nselected_bg_color:#4b6988\nselected_fg_color:#9fa2a6\ntooltip_bg_color:#2a3b4d\ntooltip_fg_color:#7e90a3\ntitlebar_bg_color:#2a3b4d\ntitlebar_fg_color:#1ae1dc\nmenubar_bg_color:#2a3b4d\nmenubar_fg_color:#1ae1dc\ntoolbar_bg_color:#2a3b4d\ntoolbar_fg_color:#cfd05d\nmenu_bg_color:#2a3b4d\nmenu_fg_color:#9fa2a6\npanel_bg_color:#2a3b4d\npanel_fg_color:#5de561\nlink_color:#ff9966"
+

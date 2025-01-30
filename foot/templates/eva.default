@@ -1,0 +1,25 @@
+# Base16 Eva - foot color config
+# kjakapat (https://github.com/kjakapat)
+[colors]
+background=2a3b4d
+foreground=9fa2a6
+
+# Normal colors
+regular0=2a3b4d # Black, could also be base01
+regular1=c4676c # Red
+regular2=66ff66 # Green
+regular3=ffff66 # Yellow
+regular4=15f4ee # Blue
+regular5=9c6cd3 # Magenta
+regular6=4b8f77 # Cyan
+regular7=9fa2a6 # White
+
+# Bright colors
+bright0=55799c
+bright1=ff9966
+bright2=3d566f
+bright3=4b6988
+bright4=7e90a3
+bright5=d6d7d9
+bright6=bb64a9
+bright7=ffffff

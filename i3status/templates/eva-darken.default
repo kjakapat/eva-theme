@@ -1,0 +1,10 @@
+## Base16 Eva Darken
+# Author: kjakapat (https://github.com/kjakapat)
+#
+# You can use these variables anywhere in the i3status configuration file.
+
+general {
+       color_good = "#66ff66"
+       color_bad = "#df676a"
+       color_degraded = "#ffff66"
+}

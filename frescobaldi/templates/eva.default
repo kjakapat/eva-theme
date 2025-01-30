@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Eva">
+  <!--
+  Created by base16-frescobaldi
+  Author: #kjakapat (https://github.com/kjakapat)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#9fa2a6" />
+    <background color="#2a3b4d" />
+    <selectiontext color="#d6d7d9" />
+    <selectionbackground color="#55799c" />
+    <current color="#3d566f" />
+    <mark color="#4b6988" />
+    <error color="#3d566f" />
+    <search color="#" />
+    <match color="#7e90a3" />
+    <paper color="#3d566f" />
+    <musichighlight color="#55799c" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#c4676c" />
+    <escape textColor="#ff9966" />
+    <comment italic="True" textColor="#55799c" />
+    <value textColor="#ffff66" />
+    <variable textColor="#66ff66" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#15f4ee" />
+    <error textColor="#9c6cd3" underline="True" underlineColor="#9c6cd3" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#ff9966" />
+      <dynamic bold="True" textColor="#15f4ee" />
+      <articulation bold="True" textColor="#ff9966" />
+      <fingering textColor="#66ff66" />
+      <stringnumber textColor="#ff9966" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#ffff66" />
+      <lyricmode textColor="#15f4ee" />
+      <lyrictext textColor="#9fa2a6" />
+      <context bold="True" />
+      <grob textColor="#9fa2a6" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

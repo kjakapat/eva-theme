@@ -1,0 +1,34 @@
+# Base16 Eva Darken - Termux color config
+# Scheme by kjakapat (https://github.com/kjakapat)
+
+background=#193145
+foreground=#a6a6a6
+cursor=#a6a6a6
+
+# normal
+color0=#193145
+color1=#df676a
+color2=#66ff66
+color3=#ffff66
+color4=#16d2ce
+color5=#a277e3
+color6=#379d80
+color7=#a6a6a6
+
+# bright
+color8=#5e707f
+color9=#df676a
+color10=#66ff66
+color11=#ffff66
+color12=#16d2ce
+color13=#a277e3
+color14=#379d80
+color15=#ffffff
+
+# extended
+color16=#ff9966
+color17=#dd5bb9
+color18=#2b4458
+color19=#43596c
+color20=#7f8992
+color21=#d2d2d2

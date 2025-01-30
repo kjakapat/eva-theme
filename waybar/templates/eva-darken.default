@@ -1,0 +1,23 @@
+/*
+*
+* Base16 Eva Darken
+* Author: kjakapat (https://github.com/kjakapat)
+*
+*/
+
+@define-color base00 #193145;
+@define-color base01 #2b4458;
+@define-color base02 #43596c;
+@define-color base03 #5e707f;
+@define-color base04 #7f8992;
+@define-color base05 #a6a6a6;
+@define-color base06 #d2d2d2;
+@define-color base07 #ffffff;
+@define-color base08 #df676a;
+@define-color base09 #ff9966;
+@define-color base0A #ffff66;
+@define-color base0B #66ff66;
+@define-color base0C #379d80;
+@define-color base0D #16d2ce;
+@define-color base0E #a277e3;
+@define-color base0F #dd5bb9;

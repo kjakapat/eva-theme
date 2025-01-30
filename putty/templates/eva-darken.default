@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Eva Darken
+; schema by kjakapat (https://github.com/kjakapat)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\eva-darken]
+
+; Default Foreground
+"Colour0"="166,166,166"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="166,166,166"
+
+; Default Background
+"Colour2"="25,49,69"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="25,49,69"
+
+; Cursor Text -- equals to default background
+"Colour4"="25,49,69"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="166,166,166"
+
+; ANSI Black
+"Colour6"="25,49,69"
+
+; ANSI Black Bold
+"Colour7"="94,112,127"
+
+; ANSI Red
+"Colour8"="223,103,106"
+
+; ANSI Red Bold
+"Colour9"="255,153,102"
+
+; ANSI Green
+"Colour10"="102,255,102"
+
+; ANSI Green Bold
+"Colour11"="43,68,88"
+
+; ANSI Yellow
+"Colour12"="255,255,102"
+
+; ANSI Yellow Bold
+"Colour13"="67,89,108"
+
+; ANSI Blue
+"Colour14"="22,210,206"
+
+; ANSI Blue Bold
+"Colour15"="127,137,146"
+
+; ANSI Magenta
+"Colour16"="162,119,227"
+
+; ANSI Magenta Bold
+"Colour17"="210,210,210"
+
+; ANSI Cyan
+"Colour18"="55,157,128"
+
+; ANSI Cyan Bold
+"Colour19"="221,91,185"
+
+; ANSI White
+"Colour20"="166,166,166"
+
+; ANSI White Bold
+"Colour21"="255,255,255"
+
